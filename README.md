@@ -1,10 +1,11 @@
 # Sobre este repositorio
 Este repositorio tiene como propositio aprender y entender los patrones de diseño, se plantean ejemplos simples para entender mejor el patron creados por mi al comprender cada uno. <br>
-Cabe señalar que este repositorio lo estoy creando para uso propio, pero si alguien quiere aprender de el, es bienvenido. Tambien estoy abirto a sugerencias para mejorar el repositorio o correcciones si ven algo mal en cuanto a los patrones. <br>
-Estoy usando PHP para los ejemplos, pero los patrones se pueden aplicar a cualquier lenguaje de programacion orientado a objetos, ademas, es probable que cambie a usar otros lengujes como Python, Java o JavaScript. <br>
+Cabe señalar que este repositorio lo estoy creando para uso propio, pero si alguien quiere aprender de el, es bienvenido. Tambien estoy abierto a sugerencias para mejorar el repositorio o correcciones si ven algo mal en cuanto a los patrones. <br>
+Los patrones se pueden aplicar a cualquier lenguaje de programacion orientado a objetos, comence usando PHP, pero es probable que vaya cambiando a otros lenguajes como Python, Java o JavaScript. <br>
 
 ## Patrones de diseño
-Ahora mismo estoy con los patrones creacionales, pero con el paso del tiempo ire agregando otros tipos de patrones para tener un repositorio completo de patrones de diseño. Los patrones de diseño se dividen en las siguientes categorías:
+Ahora mismo estoy con los patrones creacionales, pero con el paso del tiempo ire agregando ejemplos y notas de otros tipos de patrones para tener una mejor compresion de los patrones de diseño. <br>
+Los patrones de diseño se dividen en las siguientes categorías:
 
 ### Patrones creacionales
 Usados para la creacion o instanciacion de objetos separados de su logica de uso, saber como y cuando se crean.
@@ -12,7 +13,7 @@ Usados para la creacion o instanciacion de objetos separados de su logica de uso
 - [✔️] **Singleton**: Crea una instancia unica de una clase
 - [✔️] **Factory Method**: Crea objetos sin especificar la clase exacta
 - [✔️] **Abstract Factory**: Crea familias de objetos relacionados
-- [➖] **Builder**
+- [✔️] **Builder**: Crea objetos complejos paso a paso
 - [➖] **Prototype**
 
 ### Patrones estructurales
